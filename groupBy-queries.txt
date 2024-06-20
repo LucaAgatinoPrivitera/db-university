@@ -5,6 +5,7 @@
     ORDER BY anno;
     //da chiedere, spiegazione di 5 minuti al volo perché non è tutto chiaro
 
+
 2. Contare gli insegnanti che hanno l'ufficio nello stesso edificio
     SELECT office_address AS ufficio, COUNT(*) AS stesso_ufficio
     FROM `teachers`
