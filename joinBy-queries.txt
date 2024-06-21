@@ -59,3 +59,5 @@
     ON exam_student.student_id= students.id
     //Da chiedere sono bloccato qui
 
+//Praticamente avevo capito male Join, pensavo che bastasse ON, invece serve pure il WHERE per fare il controllo... se ho tempo le rifaccio
+
